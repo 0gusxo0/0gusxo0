@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐈 
-👨‍👩‍👦 Daddy
-🏕 Camper
-🪚 Wood Worker
-🎸 Guitarist
-👨🏻‍💻 Mass Adoption CTO
+- 🐈 Cat Butler
+- 👨‍👩‍👦 Daddy & Busband
+- 🏕 Camping Lover
+- 🪚 Wood Worker
+- 🎸 Guitarist
+- 👨🏻‍💻 Mass Adoption CTO
