@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🐈 
+👨‍👩‍👦 Daddy
+🏕 Camper
+🪚 Wood Worker
+🎸 Guitarist
+👨🏻‍💻 Mass Adoption CTO
