@@ -7,8 +7,8 @@ I'm currently develop a blockchain-based digital guarantee service, <a href="htt
   
 
 - 🐈 Cat Butler
-- 👨‍👩‍👦 Daddy & Busband
-- 🏕 Camping Lover
+- 👨‍👩‍👦 Daddy & Husband
+- 🏕 Camper
 - 🪚 Wood Worker
 - 🎸 Guitarist (Deprecated)  
   
