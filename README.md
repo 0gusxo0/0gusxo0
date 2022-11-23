@@ -3,8 +3,11 @@
 
 
 ## I'm Woody Kim,<br />CTO at <a href="https://guide.vircle.co.kr/team" target="_blank">Mass Adoption Inc.</a>
-I'm currently develop a blockchain-based digital guarantee service, <a href="https://mass-adoption.com" target="_blank">vircle</a>. I have experienced as an early member of a Start-up in FinTech, O2O, e-Commerce. Other than that, interested in system architecturing and database modeling for Enterprise System.
-  
+
+I have 15 years of software development experience.
+In particular, I am interested in the latest modern front-end technology. I have experience in launching several SPA services with responsive web, mobile web, and hybrid Apps. In addition, I have a lot of experience in system architecture and Database Modeling for Enterprise systems.
+
+I founding and managing a software development company for several years. And, I joined as an early member of Start-up in FinTech, O2O, and e-Commerce and have experience growing beyond Series C. Currently, I'm develop a blockchain-based digital guarantee service, "<a href="https://mass-adoption.com" target="_blank">vircle</a>".
 
 - 🐈 Cat Butler
 - 👨‍👩‍👦 Daddy & Husband
