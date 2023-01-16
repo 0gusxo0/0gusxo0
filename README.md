@@ -4,16 +4,35 @@
 
 ## I'm Woody Kim,<br />CTO at <a href="https://guide.vircle.co.kr/team" target="_blank">Mass Adoption Inc.</a>
 
-I have 15 years of software development experience.
-In particular, I am interested in the latest modern front-end technology. I have experience in launching several SPA services with responsive web, mobile web, and hybrid Apps. In addition, I have a lot of experience in system architecture and Database Modeling for Enterprise systems.
+안녕하세요!
+매스어답션에서 CTO를 맡고 있는 김현태입니다.
 
-I founding and managing a software development company for several years. And, I joined as an early member of Start-up in FinTech, O2O, and e-Commerce and have experience growing beyond Series C. Currently, I'm develop a blockchain-based digital guarantee service, "<a href="https://mass-adoption.com" target="_blank">vircle</a>".
+지금까지 15년 정도 소프트웨어를 개발중인데, 특히 최근 모던 프론트앤드 기술에 관심이 많습니다. 주로 모바일 및 하이브리드 앱, 반응형웹 등의 SPA 웹 어플리케이션을 개발해 오면서 여러 서비스들을 런칭해 왔습니다. 그밖에도 엔터프라이즈급 시스템 아키텍쳐 설계나 데이터베이스 모델링에 관심이 많고 다양한 실무 경험들을 보유하고 있습니다.
 
-- 🐈 Cat Butler
-- 👨‍👩‍👦 Daddy & Husband
-- 🏕 Camper
-- 🪚 Wood Worker
-- 🎸 Guitarist (Deprecated)  
+저는 몇년 전 창업경진대회 수상을 통해 스타트업을 창업 후 여행 플랫폼 서비스를 런칭하여 운영해본 경험도 있습니다. 그리고 대기업 커머스 플랫폼과 장례 및 여행 분야의 스타트업을 거쳐왔고, 특히 시리즈C 이상으로 성장한 핀테크 스타트업에서는 초기 멤버로 합류하여 한 조직의 팀장까지 스타트업이 성장하는 모든 단계를 경험할 수 있었습니다.
+
+현재는 블록체인 기반의 디지털 개런티 솔루션 <a href="https://mass-adoption.com" target="_blank">“버클(vircle)”</a>을 만들어가고 있습니다. 특정 산업이나 기술에 종속되지 않고 다양한 기술을 통해 소비자가 겪는 문제를 해결하려고 합니다. 앞으로 더 좋은 서비스를 만들어가기 위해 휼륭한 인재분들을 모시는데 힘쓰고 있습니다.
+
+저희 서비스에 관심이 조금이라도 관심이 생긴 분이라면 누구든지 편하게 이야기 나누고 싶습니다.
+
+저희 회사에 대해 궁금하시면?
+→ <a href="https://guide.vircle.co.kr/team" target="_blank">https://guide.vircle.co.kr/team</a>
+
+-
+
+I'm Woody Kim, CTO at Mass Adoption Inc.
+
+I have 15 years of software professional experience.
+I am interested in the latest modern front-end technology. I have experience in launching several SPA services with Responsive web, Mobile web, and hybrid Apps. In addition, I have a lot of experience in System Architecturing and Database Modeling for Enterprise systems.
+
+I also have experience of starting a Start-up and launching a travel platform service through the award of the start-up competition a few years ago. And I’ve been a start-ups in commerce, funerals, and travel, especially in a fintech startup that grew to the Series C level, where I joined as an initial member and served as the team leader of an organization, I was able to experience every step of the company’s growth.
+
+Currently, I have been developing a blockchain-based digital guarantee service, → <a href="https://mass-adoption.com" target="_blank">"vircle"</a>. We try to solve the problems faced by consumers through a variety of technologies, not dependent on a specific industry or technology. We are working hard to serve talented people to create better service in the future.
+
+If you are interested in our services, I would like to talk to you comfortably.
+
+If you are curious about our service and team?
+→ <a href="https://guide.vircle.co.kr/team" target="_blank">https://guide.vircle.co.kr/team</a>
   
 
 <br/>  
